@@ -39,6 +39,7 @@
 		};
 
 		Map.prototype.set = function (key, value) {
+
 			var entry, index;
 
 			entry = {
@@ -82,6 +83,11 @@
 				this._data.splice(index, 1);
 			}
 		};
+
+		Map.prototype.empty = function () {
+			this._data = [];
+			this._length = 0;
+		}
 
 		/* Helpers
 		----------------------------------------------- */
