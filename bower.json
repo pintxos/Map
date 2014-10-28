@@ -1,5 +1,5 @@
 {
-	"name": "pintxos-store",
+	"name": "pintxos-map",
 	"version": "0.0.0",
 	"homepage": "https://github.com/pintxos/Store",
 	"main": "index.js",
