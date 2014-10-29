@@ -11,12 +11,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/pintxos/Store.git"
+		"url": "git://github.com/pintxos/Map.git"
 	},
 		"author": "Jelle Versele",
 		"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/pintxos/Store/issues"
+		"url": "https://github.com/pintxos/Map/issues"
 	},
-	"homepage": "https://github.com/pintxos/Store"
+	"homepage": "https://github.com/pintxos/Map"
 }

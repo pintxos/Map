@@ -1,7 +1,7 @@
 {
 	"name": "pintxos-map",
 	"version": "0.0.0",
-	"homepage": "https://github.com/pintxos/Store",
+	"homepage": "https://github.com/pintxos/Map",
 	"main": "index.js",
 	"ignore": [
 		"**/.*",
