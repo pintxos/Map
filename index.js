@@ -68,6 +68,7 @@
 
 				if(this._data[i].key === key) {
 					result = i;
+					break;
 				}
 			}
 
